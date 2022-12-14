@@ -1,6 +1,6 @@
 # Math302
 
-考研数学二 302 Markdown 格式的笔记
+考研数学二 302 Markdown 和 PDF 格式的笔记
 
 来源：
 
