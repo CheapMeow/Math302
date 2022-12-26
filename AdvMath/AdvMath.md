@@ -1,6 +1,6 @@
 ---
 title: "高等数学"
-author: 廉嘉诚
+author: CheapMeow
 date: 2023/12/23
 output: pdf_document
 ---
